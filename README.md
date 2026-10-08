@@ -12,20 +12,22 @@ passages and answer higher-order-thinking questions to build English proficiency
   in the past, great journeys.
 
 ## For students
-1. **Reading check:** 2 diagnostic passages ("Stories and traditions", about 100 words; "Literature and life",
-   about 200 words) place each student on a 6-level ladder (80 → 100 → 130 → 160 → 200 → 250 words).
+1. **Reading check:** 2 short diagnostic passages of about 50 words ("Stories and traditions", simple style;
+   "Literature and life", harder style) place each student on a 6-level ladder (50 → 60 → 70 → 80 → 90 → 100 words).
 2. **Unlimited practice:** 80%+ moves up a level, below 50% moves down one; each passage targets the weakest skill.
 3. **Three HOTS questions:** inference/theme/tone/imagery (MCQ), vocabulary and connotation in context (MCQ),
    and a written interpret-or-create question. Hints, instant feedback, grammar and vocabulary scaffolds,
    and a full review from Twin 🦜 with smileys.
-4. **Save & quit** any time; resume later. Tolerant login (capitals, spaces and dots ignored).
+4. **Five a day:** a daily goal of 5 passages (stars in the sidebar), rest-your-eyes breaks after every 3rd passage,
+   and a celebration when the goal is reached. Feedback stays short: at most 2 grammar fixes, 1–2 collocations, 1 word tip.
+5. **Save & quit** any time; resume later. Tolerant login (capitals, spaces and dots ignored).
 
 ## Safeguards
 Original writing only; quotations limited to 1–2 lines from pre-1929 works; long quotations, invented sources and
 caste surnames rejected automatically; every new passage fact-checked by a second model; students can 🚩 report.
 
 ## Check which app is running
-The login page shows **BA English Language & Literature Twin · version 3 (8 Oct 2026)** under the title.
+The login page shows **BA English Language & Literature Twin · version 4 (8 Oct 2026)** under the title.
 
 ## Setup
 See **BA_English_Twin_Setup_Guide.docx**. Students go in the Sheet's **Roster** tab.
