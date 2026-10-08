@@ -1,0 +1,6 @@
+streamlit>=1.50
+google-genai>=1.30
+pydantic>=2.7
+gspread>=6.0
+google-auth>=2.30
+pandas>=2.0
